@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.VRCFaceOSC" parent="Theme.MaterialComponents.DayNight.NoActionBar" />
+</resources>
